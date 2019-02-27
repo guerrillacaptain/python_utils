@@ -1,2 +1,2 @@
 # python_utils
-一些有用的python scripts
+some useful python scripts
